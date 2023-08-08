@@ -1,16 +1,12 @@
-# vat_calculator
+# GST & VAT Calculator
 
-A new Flutter project.
+VAT (Value Added Tax) and GST (Goods and Services Tax) are non-U.S. consumption taxes imposed on sales of goods by businesses at each stage of production and distribution. 
 
-## Getting Started
+## Features
+- Splash screen 
+- GST & VAT selection screen
+- Add custom VAT & GST rates of countries. 
+- History (Local Database)
+- Light & Dark mode
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
